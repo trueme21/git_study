@@ -1,2 +1,2 @@
 local repository.
-add and modify text.
+added and modified text.
